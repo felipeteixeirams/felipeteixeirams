@@ -1,11 +1,7 @@
-- 👋 Olá, sou Felipe Teixeira
-- 👀 Tenho interesse em desenvolvimento web com Javascript e C# especialmente
-- 🌱 Atualmente estou aprendendo ASP.Net Core (C#) e ReactJS
-- 💞️ Estou procurando colaborar em comunidades como Mozilla Developers
-- 📫 Como chegar até mim: felipeteixeirams@gmail.com ou Instagram: @felipetex_dev
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeteixeirams&theme=calm&show_icons=true)
-
+- 👋 Olá, sou Felipe
+- 🌱 Atualmente especializando-se em Desenvolvimento web fullstack pela PUC Minas
+- 💞️ Estudando Desenvolvimento Web com C# e ReactJS
+- 📫 Você pode me encontrar no e-mail <felipeteixeirams@gmail.com> ou Instagram: @felipetex_dev
 
 <!---
 felipeteixeirams/felipeteixeirams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
