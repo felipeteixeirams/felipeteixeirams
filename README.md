@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @felipeteixeirams
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, sou Felipe Teixeira
+- 👀 Tenho interesse em desenvolvimento web com Javascript e C# especialmente
+- 🌱 Atualmente estou aprendendo ASP.Net Core (C#) e ReactJS
+- 💞️ Estou procurando colaborar em comunidades como Mozilla Developers
+- 📫 Como chegar até mim: felipeteixeirams@gmail.com ou Instagram: @felipetex_dev
 
 <!---
 felipeteixeirams/felipeteixeirams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
