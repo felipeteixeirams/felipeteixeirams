@@ -4,6 +4,7 @@
 - 💞️ Estou procurando colaborar em comunidades como Mozilla Developers
 - 📫 Como chegar até mim: felipeteixeirams@gmail.com ou Instagram: @felipetex_dev
 
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeteixeirams&theme=calm&show_icons=true)
 
 
 <!---
