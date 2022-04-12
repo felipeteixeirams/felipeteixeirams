@@ -1,6 +1,6 @@
 - 👋 Olá, sou Felipe
 - 🌱 Atualmente especializando-se em Desenvolvimento web fullstack pela PUC Minas
-- 💞️ Apaixonado por C# e Javascript
+- 💞️ C# & Javascript
 - 📫 Você pode me encontrar no e-mail <felipeteixeirams@gmail.com> ou Instagram: @felipeetex
 
 <!---
